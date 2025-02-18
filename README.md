@@ -1,3 +1,4 @@
 # PyQt5-YOLOv8
 
-![image](https://github.com/user-attachments/assets/3b3d86e2-c1ba-47fe-bb88-93bb3f68ed79)
+![image](https://github.com/user-attachments/assets/38277820-53fd-4ef7-abba-b240a701ad2b)
+
