@@ -85,7 +85,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "YOLOv8 GUI"))
         self.picture_detect.setText(_translate("MainWindow", "图片检测"))
         self.video_detect.setText(_translate("MainWindow", "视频检测"))
         self.camera_detect.setText(_translate("MainWindow", "摄像头检测"))
